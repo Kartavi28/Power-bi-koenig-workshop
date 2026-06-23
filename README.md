@@ -57,5 +57,5 @@ The main report page focuses on **Manufacturer performance insights**, including
 ## 📸 Dashboard Preview
 
 Show what the dashboard looks like.
-![Dashboard Preview](https://github.com/your-username/your-repository/blob/main/Screenshots/manufacturer-analysis.png))
+![Dashboard Preview](https://github.com/Kartavi28/Power-bi-koenig-workshop/blob/main/Manufature_Dashbaord.png)
   
