@@ -55,5 +55,13 @@ The main report page focuses on **Manufacturer performance insights**, including
 
 ---
 ## 📸 Dashboard Screenshots
+## 📸 Dashboard Preview
 
+Show what the dashboard looks like.
+
+![Dashboard Preview](## 📸 Dashboard Preview
+
+Show what the dashboard looks like.
+
+![Dashboard Preview](https://github.com/your-username/your-repository/blob/main/Screenshots/manufacturer-analysis.png))
   
